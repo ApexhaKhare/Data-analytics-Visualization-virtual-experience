@@ -1,0 +1,27 @@
+Sum of Score,Column Labels,,,
+Row Labels,negative,neutral,positive,Grand Total
+audio,539,595,7571,8705
+GIF,517,615,7865,8997
+photo,585,785,8909,10279
+video,612,995,7545,9152
+Grand Total,2253,2990,31890,37133
+Datetime,(All),,,
+,,,,
+Row Labels,Sum of Score,,,
+adore,2560,,,
+cherish,2844,,,
+disgust,2027,,,
+dislike,2112,,,
+hate,2379,,,
+heart,2734,,,
+indifferent,1908,,,
+interested,2659,,,
+intrigued,2551,,,
+like,2148,,,
+love,1881,,,
+peeking,2150,,,
+scared,2568,,,
+super love,1960,,,
+want,2390,,,
+worried,2262,,,
+Grand Total,37133,,,
